@@ -14,10 +14,10 @@ Azure Services that were used : Static web apps, Azure Resources Manager,Network
  Website link: https://lemon-sky-0fe7fde00.1.azurestaticapps.net
 
  Screenshots of projects:
- [](Images/Screenshot (131).png)
- [](Images/Screenshot (132).png)
- [](Images/Screenshot (133).png)
- [](Images/Screenshot (134).png)
- [](Images/Screenshot (135).png)
- [](Images/Screenshot (136).png)
+ [](Images/Screensh.png)
+ [](Images/Screensh(132).png)
+ [](Images/Screensh(133).png)
+ [](Images/Screensh(134).png)
+ [](Images/Screensh(135).png)
+ [](Images/Screensh(136).png)
  
