@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="description" content="How to get started with Future Ready Talent">
+<meta name="keywords" content="Future Ready Talent">
+<meta name="author" content="Future Ready Talent">
+<title>Future Ready Talent | Welcome</title>
+<link rel="stylesheet" href="./CSS/page.css">
+</head>
+<body>
+  <div class="spin">
+  <header>
+    <div class="container">
+      <div id="branding">
+        <h1><marquee>Future Ready Talent</marquee></h1>
+      </div>
+      <nav>
+        <ul>
+          <li class="current"><a href="index.html">Home</a></li>
+          <li><a href="registration.html">Process</a></li>
+          <li><a href="about.html">About</a></li>
+        </ul>
+      </nav>
+    </div>
+
+  </header>
+  <section id="showcase">
+       <div class="container">
+              <h1>Future Ready talent : For new Talent</h1>
+              <p>A great oppurtunity for all the students to get certified by Microsft Azure.</p>
+              <p><a href="registration.html">Lets get started</a></p>
+       </div>
+<h3><img src="./Images/FRTLogo.png" height="180" width="300"></h3>
+  </section>
+
+ <h1> Affiliated Partners :</h1>
+  <section id="boxes">
+        <div class="container">
+           <div class="box">
+                 <img src="./Images/github.jpg" height="180" width="180">
+               <h3>Github</h3>
+           </div>
+           <div class="box">
+                <img src="./Images/microsoft.jpg" height="180" width="180">
+               <h3>Microsoft</h3>
+           </div>
+           <div class="box">
+                <img src="./Images/quess-corp.jpg" height="180" width="180">
+               <h3>Quess</h3>
+        </div>
+           <div class="box">
+               <img src="./Images/futureskill.jpg" height="180" width="180">
+               <h3>Future Skills Prime</h3>
+        </div>
+           <div class="box">
+               <img src="./Images/ey_logo.jpg" height="180" width="180">
+               <h3>EY</h3>
+        </div>
+  </section>
+  <footer>
+     <p>For further queries visit official website.</p>
+   </footer>
+   </div>
+   <script>
+     document.querySelector("body .spin").style.display = "none";
+     document.querySelector("body").classList.add("spinner-1");
+
+setTimeout(() => {
+  document.querySelector("body").classList.remove("spinner-1");
+  document.querySelector("body .spin").style.display = "block";
+}, 500);
+   </script>
+</body>
+</html>
