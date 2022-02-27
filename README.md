@@ -19,5 +19,5 @@ Azure Services that were used : Static web apps, Azure Resources Manager,Network
 ![Screensh(134)](https://user-images.githubusercontent.com/78631643/155884184-d6faa566-258b-4017-a66d-9e3cac3f4a3e.png)
 ![Screensh(135)](https://user-images.githubusercontent.com/78631643/155884185-15cfc98b-d814-4d2f-90d2-c3bdac01e688.png)
 ![Screensh(136)](https://user-images.githubusercontent.com/78631643/155884186-e6d9dd39-242d-41ff-8b78-4ba3fe1bd188.png)
-![Screensh](https://user-images.githubusercontent.com/78631643/155884187-ed789b4b-f47f-4462-95d5-bdf697bfed88.png)
+
  
